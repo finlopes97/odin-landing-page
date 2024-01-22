@@ -47,10 +47,10 @@ li {
     transition: 100ms ease-in-out;
 }
 li:hover{
-    text-decoration-color: #FFF;
+    text-decoration-color: #3882F6;
+    text-shadow: 0 0 8px #3882F6;
 }
 li.logo{
-    text-decoration: none;
     font-size: 1.5rem;
     font-weight: 700;
 }
